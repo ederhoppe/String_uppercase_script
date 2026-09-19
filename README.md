@@ -10,4 +10,4 @@ Un script interactivo escrito en Python que recibe una cadena de texto ingresada
 
 
 ## Ejecución
-Para correr el script en tu terminal local, ejecuta:
+Para correr 
