@@ -4,5 +4,5 @@ Un script interactivo escrito en Python que recibe una cadena de texto ingresada
 
 ## Características
 * Interfaz interactiva por consola.
-* Manipulación de cadenas utilizando métodos nativos de Python.
+* Manipulación de cadenas utilizando métod
 
